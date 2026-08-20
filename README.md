@@ -1,4 +1,4 @@
-# Project Apex: 15-in-1 Mixed-Signal Diagnostic Instrument
+# Project Apex: Mixed-Signal Diagnostic Instrument
 
 Hardware design, manufacturing files, and system architecture for Project Apex, a multi-functional diagnostic edge-computing tool
 
