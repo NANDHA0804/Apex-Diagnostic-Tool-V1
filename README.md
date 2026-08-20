@@ -19,3 +19,4 @@ Transitioning to a fully autonomous, solid-state architecture to support 24MSPS 
 *   **Slave MCU:** Upgrading to AVR32DB48. Utilizes native Multi-Voltage I/O (MVIO) on Port C to eliminate external level shifters. Includes dedicated 12-bit ADC channels for absolute floating-gate fault detection.
 *   **Solid-State Matrix:** Replacing mechanical relays with an AO4606/SI1539CDL MOSFET crossbar switching matrix for automated IC power routing.
 *   **PC Interface:** Transitioning from serial prints to a Python/PySide6 desktop GUI utilizing pySerial for live PyQtGraph data visualization.
+*   **Design Files** So we are actively wroking on the version 2 deisgn and the design documention file is listed here please use iitm mail id to view the G-sheets :https://docs.google.com/document/d/17MV_ibkEd-tFQ1U5sWTHGYrbQkPEoYyiVjMqvgrKTJg/edit?usp=sharing
